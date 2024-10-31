@@ -1,0 +1,2325 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2019-07-10 13:04+0700\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Poedit 2.2\n"
+"Project-Id-Version: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes\class-setting.php:523
+msgid "agentname"
+msgstr ""
+
+#: includes\class-setting.php:523
+msgid "jobprojectid"
+msgstr ""
+
+#: includes\class-setting.php:523
+msgid "customer"
+msgstr ""
+
+#: admin\templates\admin-overview.php:99
+msgid "SynchAll"
+msgstr ""
+
+#: admin\templates\admin-overview.php:101
+msgid "SynchChanges"
+msgstr ""
+
+#: includes\class-prosolwpclient-helper.php:214
+msgid "Every Two Hours"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:973
+msgid "Jobs per page"
+msgstr ""
+
+#: includes\class-setting.php:471
+msgid "Activate further skills"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:713
+msgid "Step-by-Step"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:712
+msgid "One Pager"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:706
+msgid "Change the step view of the application form"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:706
+msgid "Application form steps"
+msgstr ""
+
+#: admin\templates\admin-settings-display.php:36
+msgid "change site"
+msgstr ""
+
+#: includes\class-setting.php:691
+msgid "+ add site"
+msgstr ""
+
+#: includes\class-setting.php:690
+msgid "- remove site"
+msgstr ""
+
+#: includes\class-setting.php:689
+msgid "Please change to other site before delete"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1529
+msgid "Site10 name"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1529
+msgid "Site9 name"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1529
+msgid "Site8 name"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1529
+msgid "Site7 name"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1529
+msgid "Site6 name"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1529
+msgid "Site5 name"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1529
+msgid "Site4 name"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1529
+msgid "Site3 name"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1529
+msgid "Site2 name"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1529
+msgid "Site1 name"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:458
+msgid "Additional Site"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1064
+msgid "back"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1062
+msgid "Button back"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1057
+msgid "next"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1055
+msgid "Button next step"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1050
+msgid "back to home"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1048
+msgid "Button to home"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1043
+msgid "back to search"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1041
+msgid "Button to search"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1036
+msgid "back to details"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1034
+msgid "Button to details"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1028
+msgid "Frontend apply form"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1010
+msgid "apply !"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1008
+msgid "apply button"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1003
+msgid "back to search"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:1001
+msgid "back button"
+msgstr ""
+
+#: includes\class-setting.php:523
+msgid "qualification"
+msgstr ""
+
+#: includes\class-setting.php:523
+msgid "profession"
+msgstr ""
+
+#: includes\class-setting.php:523
+msgid "salary"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:995
+msgid "Frontend jobdetails"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:990
+msgid "to job"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:988
+msgid "To job button"
+msgstr ""
+
+#: includes\class-setting.php:523
+msgid "Worktime"
+msgstr ""
+
+#: includes\class-setting.php:523
+msgid "City  "
+msgstr ""
+
+#: includes\class-setting.php:523
+msgid "zipcode"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:979
+msgid "Frontend joblist"
+msgstr ""
+
+#: includes\class-setting.php:499
+msgid "Show / dont show unsolicited application button"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:971
+msgid "Unsolicited application"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:964
+msgid "Search button"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:959
+msgid "Where?"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:957
+msgid "Place"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:952
+msgid "What?"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:950
+msgid "Jobtitle"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:943
+msgid "Heading"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:937
+msgid "Frontend jobsearch"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:931
+msgid "Main color"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:908
+msgid "Font"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:902
+msgid "ProSolution Template"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:901
+msgid "No Template"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:897
+msgid "Select template"
+msgstr ""
+
+#: admin\class-prosolwpclient-admin.php:454
+msgid "Design Template"
+msgstr ""
+
+#: includes\class-setting.php:398
+msgid "Name list"
+msgstr ""
+
+#: includes\class-setting.php:397
+msgid "Order number"
+msgstr ""
+
+#: includes\class-setting.php:395
+msgid "Skillgroup sort by:"
+msgstr ""
+
+#: public\templates\singlefieldset\prosolwpclientjobapplicationexpertiseinfo.php:51
+msgid "No Value"
+msgstr ""
+
+#: public\templates\singlefieldset\prosolwpclientjobapplicationexpertiseinfo.php:66
+msgid "Add more skill:"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:883
+msgid "This checkbox will be mandatory in the frontend."
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:245
+msgid "Diverse"
+msgstr ""
+
+#: includes/class-setting.php:423
+msgid "Please make sure that a salutation for gender \"Diverse\" is set in WorkExpert"
+msgstr ""
+
+#: includes/class-setting.php:422
+msgid "Activate Gender \"Diverse\""
+msgstr ""
+
+#: public/templates/prosolwpclientjobdetails.php:~148
+msgid "Salary"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~646
+msgid "Default Office"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~647
+msgid "Select the Office to be used as default."
+msgstr ""
+
+#: includes/class-setting.php:~283
+msgid "Please add maximum 5 client ID"
+msgstr ""
+
+#: includes/class-setting.php:~284
+msgid "Please input correct number type of client ID"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~663
+msgid "Client List"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~664
+msgid "Insert list of clients from which webjobs should be shown in the frontend (max. 5 client IDs, comma-seperated)"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~582
+msgid "Please fill API user and pass before pressed the button"
+msgstr ""
+
+#: includes/class-setting.php:~514
+msgid "Office must be set for feature Recruitment."
+msgstr ""
+
+#: public/templates/prosolwpclientjobdetails.php:~124
+msgid "Immediately"
+msgstr ""
+
+#: public/templates/prosolwpclientjobdetails.php:~100
+msgid "Profession"
+msgstr ""
+
+#: public/templates/prosolwpclientjobdetails.php:~96
+msgid "Jobname"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:~1672
+msgid "Sorry! Please fill mandatory fields to add new tab."
+msgstr ""
+
+#: includes/class-setting.php:~365
+msgid "Please add minimum 1 field in activated step"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~622
+msgid "Select the language as default."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~622
+msgid "Language"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~807
+msgid "Fifth Policy"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~800
+msgid "Fourth Policy"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~793
+msgid "Third Policy"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~786
+msgid "Second Policy"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~777
+msgid "This is Mandatory."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~776
+msgid "First Policy"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "message"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "apply"
+msgstr ""
+    
+#: includes/class-setting.php:~356
+msgid "source"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~759
+msgid "6th Step Label"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~750
+msgid "5th Step Label"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~741
+msgid "4th Step Label"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "employment"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "contract"
+msgstr ""
+    
+#: includes/class-setting.php:~356
+msgid "experience"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "country"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "postcode"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "company"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "gendesc"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "description"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "end"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "beginning"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "job"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~708
+msgid "3rd Step Label"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "business"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "foact"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "level"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "training"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "group"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~677
+msgid "2nd Step Label"
+msgstr "asd"
+
+#: includes/class-setting.php:~356
+msgid "notes"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "availfrom"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "countrybirth"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "gender"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "marital"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "nationality"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "email"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "mobile"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "phone"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "federal"
+msgstr ""
+
+#: includes/class-setting.php:~356
+msgid "title"
+msgstr ""
+
+#: includes/class-setting.php:~368
+msgid "Activate"
+msgstr ""
+
+#: includes/class-setting.php:~345
+msgid "Mandatory"
+msgstr ""
+
+#: includes/class-setting.php:~345
+msgid "Show / Hide"
+msgstr ""
+
+#: includes/class-setting.php:~345
+msgid "Fields"
+msgstr ""
+
+#: includes/class-setting.php:~343
+msgid "Set Following fields:"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~646
+msgid "1st Step Label"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~638
+msgid "Change Step Label"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~637
+msgid "Step Name"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~420
+msgid "Privacy Policy"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~420
+msgid "Application Form"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:~420
+msgid "General Settings"
+msgstr ""
+
+#: includes/class-prosolwpclient-admin.php:~413
+msgid "failed to connect URL. Please try again in a few minutes"
+msgstr ""
+
+#: includes/class-prosolwpclient-admin.php:~395
+msgid "response timeout"
+msgstr ""
+
+#: includes/class-setting.php:309
+msgid "URL check"
+msgstr ""
+
+#: includes/class-prosolwpclient-admin.php:~395
+msgid "response is invalid"
+msgstr ""
+
+#: includes/class-prosolwpclient-admin.php:~395
+msgid "URL is valid"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:69
+msgid "Pro Solution Overview"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:69
+msgid "Pro Solution"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:80
+msgid "Setting"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:123
+msgid "Number of logs per page:"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:194
+#: admin/class-prosolwpclient-admin.php:265
+#, php-format
+msgid ""
+"Api key is missing, sync can not be done, <a href=\"%s\">please update "
+"setting</a>"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:254
+msgid "All tables synced successfully."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:257
+#, php-format
+msgid "%s tables synced successfully"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:262
+#, php-format
+msgid "%s tables synced failed."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:272
+msgid "Sync from cron done"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:306
+msgid "Existing data truncated and new data synced successfully."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:314
+msgid "Sorry, sync is not possible as api key is missing in setting"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:344
+msgid "API Config"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:348
+msgid "Frontend"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:352
+msgid "Tools"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:371
+msgid "Following database tables will be reset/deleted."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:380
+msgid ""
+"Following option values created by this plugin will be deleted from "
+"wordpress option table"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:414
+msgid "Please set cron secret key first"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:431
+msgid "API Domain Url"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:432
+msgid "Customer domain url. e.g. https://customer.workexpert.online"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:444
+msgid "API User"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:445
+msgid "Please put API User here, required field."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:457
+msgid "API Pass"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:458
+msgid "Please put API Pass here, required field."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:473
+msgid "Sync Key"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:474
+#, php-format
+msgid "Default key <code>%s</code>"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:474
+#, php-format
+msgid "Cron url is <code>%s</code>"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:486
+msgid "On Uninstall delete plugin data"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:487
+msgid ""
+"Delete Global Config data and custom table created by this plugin on "
+"uninstall."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:487
+msgid ""
+"<strong>Please note that this process can not be undone and it is "
+"recommended to keep full database backup before doing this.</strong>"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:490
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:53
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:137
+msgid "Yes"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:491
+msgid "No"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:501
+msgid "Pro Solution Frontend Page"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:502
+#, php-format
+msgid ""
+"Pro Solution Frontend page, shortcode <code>[prosolfrontend type=\"search"
+"\"]</code> added automatically. <a class=\"button button-primary\" href=\"%s"
+"\" target=\"_blank\">Visit Page</a> <a class=\"button button-default\" href="
+"\"%s\" target=\"_blank\">Edit Page</a>"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:509
+msgid "Default Nation"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:510
+msgid ""
+"Select the nation to be used as Country, Nationality and Country of Birth."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:590
+msgid ""
+"Api key is missing, please set api user and api password in plugin setting."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:591
+msgid "Loading"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:594
+msgid "Last sync failed!"
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:619
+#: public/class-prosolwpclient-public.php:1457
+msgid "This field is required."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:620
+#: public/class-prosolwpclient-public.php:1458
+msgid "Please fix this field."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:621
+#: public/class-prosolwpclient-public.php:1459
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:622
+#: public/class-prosolwpclient-public.php:1460
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:623
+#: public/class-prosolwpclient-public.php:1461
+msgid "Please enter a valid date."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:624
+#: public/class-prosolwpclient-public.php:1462
+msgid "Please enter a valid date ( ISO )."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:625
+#: public/class-prosolwpclient-public.php:1463
+msgid "Please enter a valid number."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:626
+#: public/class-prosolwpclient-public.php:1464
+msgid "Please enter only digits."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:627
+#: public/class-prosolwpclient-public.php:1465
+msgid "Please enter the same value again."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:628
+#: public/class-prosolwpclient-public.php:1466
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:629
+#: public/class-prosolwpclient-public.php:1467
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:630
+#: public/class-prosolwpclient-public.php:1468
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:631
+#: public/class-prosolwpclient-public.php:1469
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:632
+#: public/class-prosolwpclient-public.php:1470
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:633
+#: public/class-prosolwpclient-public.php:1471
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: admin/class-prosolwpclient-admin.php:634
+#: public/class-prosolwpclient-public.php:1472
+msgid "Please check the captcha."
+msgstr ""
+
+#: includes/class-prosolwpclient-activator.php:389
+msgctxt "Page slug"
+msgid "prosolwpclientfrontend"
+msgstr ""
+
+#: includes/class-prosolwpclient-activator.php:390
+msgctxt "Page title"
+msgid "Pro Solution Frontend"
+msgstr ""
+
+#: includes/class-prosolwpclient-helper.php:64
+msgid "Activity log cleared"
+msgstr ""
+
+#: includes/class-prosolwpclient-helper.php:101
+#: admin/templates/admin-overview.php:162
+msgid " at "
+msgstr ""
+
+#: includes/class-prosolwpclient-helper.php:102
+#: admin/templates/admin-overview.php:163
+msgid " by "
+msgstr ""
+
+#: includes/class-prosolwpclient-helper.php:227
+#: public/class-prosolwpclient-public.php:1475
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:14
+#: public/templates/singlefieldset/prosolwpclient-job-application-personal-info_2.php:14
+msgid "Personal Data"
+msgstr ""
+
+#: includes/class-prosolwpclient-helper.php:228
+#: public/class-prosolwpclient-public.php:1476
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:17
+msgid "Education"
+msgstr ""
+
+#: includes/class-prosolwpclient-helper.php:229
+#: public/class-prosolwpclient-public.php:1477
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:22
+msgid "Work Experience"
+msgstr ""
+
+#: includes/class-prosolwpclient-helper.php:230
+#: public/class-prosolwpclient-public.php:1478
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:17
+msgid "Expertise"
+msgstr ""
+
+#: includes/class-prosolwpclient-helper.php:231
+#: public/class-prosolwpclient-public.php:1479
+#: public/templates/singlefieldset/prosolwpclientjobapplicationsidedishesinfo.php:9
+msgid "Side Dishes"
+msgstr ""
+
+#: includes/class-prosolwpclient-helper.php:232
+#: public/class-prosolwpclient-public.php:1480
+#: public/templates/singlefieldset/prosolwpclientjobapplicationothersinfo.php:9
+msgid "Others"
+msgstr ""
+
+#: includes/class-prosolwpclient-table-helper.php:105
+#: public/class-prosolwpclient-public.php:166
+#: public/class-prosolwpclient-public.php:189
+#: public/class-prosolwpclient-public.php:258
+#, php-format
+msgid "Api response failed. Message: %s"
+msgstr ""
+
+#: includes/class-prosolwpclient-table-helper.php:109
+msgid "Api config invalid"
+msgstr ""
+
+#: includes/class-setting.php:523 includes/class-setting.php:524
+msgid "Copy to clipboard"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:102
+msgid "Sorry, job portal is not loaded due to api misconfiguration"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:457
+msgid "Please enter title"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:459
+msgid "Title could not be more than 35 characters"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:463
+msgid "Description could not be more than 150 characters"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:467
+msgid "Please choose attachment type"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:469
+msgid "Selection of attachment type is invalid"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:472
+msgid "Sorry! Your uploaded file size is invalid. Please check and try again."
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:476
+msgid "Please upload file"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:480
+#: public/class-prosolwpclient-public.php:1403
+msgid ""
+"Sorry! Your already uploaded total file size limit crossed. Please delete "
+"existing file and try again. You can upload no more than "
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:484
+msgid ""
+"Invalid file for document type. Allowable file: pdf, doc, docx, xls, xlsx, "
+"txt, odt, ods, odp, rtf, pps, ppt, pptx, ppsx, vcf, msg, eml, ogg, mp3, wav, "
+"wma, asf, mov, avi, mpg, mpeg, mp4, wmf, 3g2, 3gp, png, jpg, jpeg, gif, bmp, "
+"tif, tiff, key, numbers, pages"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:494
+msgid ""
+"Unable to determine image type of uploaded file. Please upload valid file"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:498
+msgid "Image content is invalid. Please upload valid file"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:574
+msgid "Invalid Job ID"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:606
+#: public/class-prosolwpclient-public.php:1417
+msgid "Please enter family name"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:609
+msgid "Family Name could not be more than 50 characters"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:613
+#: public/class-prosolwpclient-public.php:1418
+msgid "Please enter first given name"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:616
+msgid "First Given Name could not be more than 50 characters"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:620
+#: public/class-prosolwpclient-public.php:1419
+msgid "Please enter road"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:623
+msgid "Road could not be more than 80 characters"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:627
+msgid "Please enter postcode"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:630
+#: public/class-prosolwpclient-public.php:820
+#: public/class-prosolwpclient-public.php:967
+msgid "Postcode number length should be between 4 and 15 digits"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:634
+#: public/class-prosolwpclient-public.php:1420
+msgid "Please enter town"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:637
+#: public/class-prosolwpclient-public.php:830
+#: public/class-prosolwpclient-public.php:977
+msgid "Town could not be more than 50 characters"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:641
+#: public/class-prosolwpclient-public.php:1425
+msgid "Please select country"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:677
+#: public/class-prosolwpclient-public.php:1427
+msgid "Please enter phone"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:680
+#: public/class-prosolwpclient-public.php:685
+msgid "Phone number length should be between 9 and 35 characters"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:690
+msgid "Please select nationality"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:694
+#: public/class-prosolwpclient-public.php:1429
+msgid "Please select marital status"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:698
+#: public/class-prosolwpclient-public.php:1430
+msgid "Please select gender"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:703
+#: public/class-prosolwpclient-public.php:1431
+msgid "Please select at least one job"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:724
+msgid "Please provide valid email address"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:728
+msgid "Email could not be more than 50 characters"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:735
+msgid ""
+"Do not forward documents to content could not be more than 300 characters"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:738
+msgid "Do not forward to: "
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:749
+msgid "Number of education can not be more than 10"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:758
+#: public/class-prosolwpclient-public.php:1436
+msgid "Please select beginning year"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:761
+#: public/class-prosolwpclient-public.php:883
+msgid "Please provide valid beginning year"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:768
+#: public/class-prosolwpclient-public.php:890
+msgid "End year should be greater or equal to beginning year"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:775
+#: public/class-prosolwpclient-public.php:1437
+msgid "Please select end year"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:779
+#: public/class-prosolwpclient-public.php:900
+msgid "Please provide valid end year"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:802
+#: public/class-prosolwpclient-public.php:1434
+msgid "Please select group"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:810
+#: public/class-prosolwpclient-public.php:1435
+msgid "Please select Training / Practice"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:841
+#: public/class-prosolwpclient-public.php:934
+msgid "Description could not be more than 400 characters"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:871
+msgid "Number of experience can not be more than 10"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:880
+msgid "Please select beginning Year"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:897
+msgid "Please select end Year"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:930
+msgid "Please enter description"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:945
+msgid "General  Description could not be more than 100 characters"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:956
+msgid "Company / Institution could not be more than 50 characters"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1036
+msgid ""
+"I am applying specifically for content could not be more than 80 characters"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1042
+msgid ""
+"What else do you want to tell us? content could not be more than 2000 "
+"characters"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1047
+msgid "I apply for: "
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1050
+msgid "Other message: "
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1218
+msgid "Application has been submitted successfully."
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1244
+#, php-format
+msgid "Submit response failed. Message: %s"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1284
+msgid "Application submitted successfully."
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1309
+msgid "Sorry! Some problem during request. Please try again."
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1397
+#: public/templates/singlefieldset/prosolwpclientjobapplicationsidedishesinfo.php:33
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:65
+msgid "File"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1398
+msgid "Photo"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1399
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:170
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:189
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:338
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:353
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:224
+msgid "Choose"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1400
+msgid "To Edit"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1401
+msgid "Are you sure to delete this skill entry ?"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1402
+msgid "Are you sure to delete this file entry ?"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1404
+msgid "Sorry! Some problem during deletion. Please try again."
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1406
+msgid "Education "
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1407
+msgid "Experience "
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1408
+msgid "Attachment "
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1409
+msgid "Delete"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1410
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:54
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:230
+msgid "Please Select Training / Practice"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1411
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:134
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:305
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:156
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:329
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:97
+msgid "Please Select Federal State"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1412
+msgid "Next"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1413
+msgid "Prev"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1414
+msgid "Step"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1415
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:105
+msgid ""
+"pdf, doc, docx, xls, xlsx, txt, odt, ods, odp, rtf, pps, ppt, pptx, ppsx, "
+"vcf, msg, eml, ogg, mp3, wav, wma, asf, mov, avi, mpg, mpeg, mp4, wmf, 3g2, "
+"3gp, png, jpg, jpeg, gif, bmp, tif, tiff, key, numbers, pages"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1416
+msgid "gif, jpg, jpeg, png"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1421
+msgid "Please enter Postcode."
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1422
+msgid "Please enter only Numbers."
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1423
+#: public/class-prosolwpclient-public.php:1424
+msgid "Postcode number length should be between 4 and 15 digits."
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1426
+msgid "Please select date of birth"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1428
+msgid "Please enter nationality"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1432
+msgid "Please select available date from"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1439
+msgid "Download"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1440
+msgid "Processing..."
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1441
+msgid "File Upload Failed"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1442
+msgid "Sorry! Some problem during uploading. Please try again."
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1444
+msgid "Please enter title."
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1445
+msgid "File type should be checked"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1446
+msgid "File should be uploaded"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1447
+msgid "Sorry! date of birth is greater than today."
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1448
+msgid "Sorry! availability date is less than today."
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1449
+msgid "Sorry! You must be over 16 years old."
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1450
+msgid "Enter another Application"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1451
+msgid "Start year should be less or equal to end year."
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1452
+msgid "End year should be greater or equal to beginning year."
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1454
+msgid "Please enter only digit or + or -"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1455
+msgid "Please enter only characters"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1483
+msgid "in tab"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1484
+msgid "Are you sure? You didn't finish the form!"
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1485
+msgid ""
+"Sorry! Maximum tab limit for education crossed. Please remove existing tab "
+"to add new."
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1486
+msgid ""
+"Sorry! Maximum tab limit for experience crossed. Please remove existing tab "
+"to add new."
+msgstr ""
+
+#: public/class-prosolwpclient-public.php:1487
+msgid "There is an error in"
+msgstr ""
+
+#: admin/templates/admin-overview.php:1
+msgid "Pro Solution Dashboard "
+msgstr ""
+
+#: admin/templates/admin-overview.php:9
+msgid "Database Synchronization"
+msgstr ""
+
+#: admin/templates/admin-overview.php:17
+msgid "Data Tables"
+msgstr ""
+
+#: admin/templates/admin-overview.php:21
+msgid "Sync All"
+msgstr ""
+
+#: admin/templates/admin-overview.php:29 admin/templates/admin-overview.php:87
+msgid "Table Name"
+msgstr ""
+
+#: admin/templates/admin-overview.php:30 admin/templates/admin-overview.php:88
+#: public/templates/prosolwpclientjobsearchresult.php:49
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:192
+#: public/templates/singlefieldset/prosolwpclientjobapplicationsidedishesinfo.php:36
+msgid "Action"
+msgstr ""
+
+#: admin/templates/admin-overview.php:31 admin/templates/admin-overview.php:89
+msgid "Last Sync"
+msgstr ""
+
+#: admin/templates/admin-overview.php:66
+#: admin/templates/admin-view-single-table-list.php:43
+msgid "Sync"
+msgstr ""
+
+#: admin/templates/admin-overview.php:74
+msgid "View Data"
+msgstr ""
+
+#: admin/templates/admin-overview.php:105
+msgid "Logs and Activity"
+msgstr ""
+
+#: admin/templates/admin-overview.php:106
+msgid "Refresh/reload Log"
+msgstr ""
+
+#: admin/templates/admin-overview.php:111
+msgid "Delete Log and reload"
+msgstr ""
+
+#: admin/templates/admin-settings-display.php:21
+msgid "Pro Solution: Setting"
+msgstr ""
+
+#: admin/templates/admin-view-single-table-list.php:39
+msgid "Table: "
+msgstr ""
+
+#: admin/templates/admin-view-single-table-list.php:45
+msgid "Last sync time: "
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-agent-list.php:255
+msgid "Agent Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-agent-list.php:256
+#: includes/single-table-list/class-prosolwpclient-availability-list.php:121
+#: includes/single-table-list/class-prosolwpclient-contract-list.php:121
+#: includes/single-table-list/class-prosolwpclient-country-list.php:121
+#: includes/single-table-list/class-prosolwpclient-education-list.php:136
+#: includes/single-table-list/class-prosolwpclient-educationlookup-list.php:136
+#: includes/single-table-list/class-prosolwpclient-employment-list.php:121
+#: includes/single-table-list/class-prosolwpclient-experienceposition-list.php:121
+#: includes/single-table-list/class-prosolwpclient-federal-list.php:136
+#: includes/single-table-list/class-prosolwpclient-filecategoryemp-list.php:121
+#: includes/single-table-list/class-prosolwpclient-isced-list.php:121
+#: includes/single-table-list/class-prosolwpclient-marital-list.php:121
+#: includes/single-table-list/class-prosolwpclient-nace-list.php:121
+#: includes/single-table-list/class-prosolwpclient-office-list.php:287
+#: includes/single-table-list/class-prosolwpclient-operationarea-list.php:121
+#: includes/single-table-list/class-prosolwpclient-profession-list.php:136
+#: includes/single-table-list/class-prosolwpclient-professiongroup-list.php:121
+#: includes/single-table-list/class-prosolwpclient-qualification-list.php:121
+#: includes/single-table-list/class-prosolwpclient-qualificationeval-list.php:121
+#: includes/single-table-list/class-prosolwpclient-recruitmentsource-list.php:121
+#: includes/single-table-list/class-prosolwpclient-setting-list.php:120
+#: includes/single-table-list/class-prosolwpclient-skill-list.php:136
+#: includes/single-table-list/class-prosolwpclient-skillgroup-list.php:136
+#: includes/single-table-list/class-prosolwpclient-skillrate-list.php:152
+#: includes/single-table-list/class-prosolwpclient-staypermit-list.php:121
+#: includes/single-table-list/class-prosolwpclient-title-list.php:121
+#: includes/single-table-list/class-prosolwpclient-workpermit-list.php:121
+msgid "Name"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-agent-list.php:257
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:179
+msgid "Gender"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-agent-list.php:258
+msgid "Position"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-agent-list.php:259
+#: includes/single-table-list/class-prosolwpclient-office-list.php:295
+msgid "Email"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-agent-list.php:260
+msgid "Phone1"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-agent-list.php:261
+msgid "Phone2"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-agent-list.php:262
+msgid "Phone mobile"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-agent-list.php:263
+msgid "Custom text"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-agent-list.php:264
+msgid "Signature uuid"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-agent-list.php:265
+msgid "Photo uuid"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-availability-list.php:120
+msgid "Availability Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-contract-list.php:120
+msgid "Contract Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-country-list.php:120
+#: includes/single-table-list/class-prosolwpclient-federal-list.php:137
+msgid "Country Code"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-education-list.php:135
+msgid "education Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-education-list.php:137
+msgid "Has Lookup"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-educationlookup-list.php:135
+msgid "Lookup Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-educationlookup-list.php:137
+msgid "Education Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-employment-list.php:120
+msgid "Employment Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-experienceposition-list.php:120
+msgid "Experienceposition Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-federal-list.php:135
+msgid "Federal Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-filecategoryemp-list.php:120
+msgid "Filecategoryemp Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-isced-list.php:120
+msgid "Isced Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-marital-list.php:120
+msgid "Marital Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-nace-list.php:120
+msgid "Nace Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-office-list.php:285
+msgid "Office Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-office-list.php:286
+msgid "Client"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-office-list.php:288
+msgid "Name 2"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-office-list.php:289
+msgid "Street"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-office-list.php:290
+msgid "Zip"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-office-list.php:291
+msgid "City"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-office-list.php:292
+msgid "Phone 1"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-office-list.php:293
+msgid "Phone 2"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-office-list.php:294
+msgid "Fax"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-office-list.php:296
+msgid "Homepage"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-office-list.php:297
+msgid "Customtext"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-operationarea-list.php:120
+msgid "Operationarea Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-profession-list.php:135
+msgid "Profession Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-profession-list.php:137
+msgid "Profession Group Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-professiongroup-list.php:120
+msgid "Professiongroup Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-qualification-list.php:120
+msgid "Qualification Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-qualificationeval-list.php:120
+msgid "Qualificationeval Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-recruitmentsource-list.php:120
+msgid "Recruitmentsource Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-setting-list.php:121
+#: includes/single-table-list/class-prosolwpclient-skillrate-list.php:153
+msgid "Value"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-skill-list.php:135
+msgid "Skill Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-skill-list.php:137
+msgid "Skill Group Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-skillgroup-list.php:135
+msgid "Skillgroup Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-skillgroup-list.php:137
+msgid "Profession Groups"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-skillrate-list.php:151
+msgid "Skillrate Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-skillrate-list.php:154
+msgid "Skill group Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-staypermit-list.php:120
+msgid "Staypermit Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-title-list.php:120
+msgid "Title Id"
+msgstr ""
+
+#: includes/single-table-list/class-prosolwpclient-workpermit-list.php:120
+msgid "Workpermit Id"
+msgstr ""
+
+#: public/templates/prosolwpclientjobapply.php:65
+msgid "Please select one option"
+msgstr ""
+
+#: public/templates/prosolwpclientjobapply.php:80
+msgid "Back to Job Details"
+msgstr ""
+
+#: public/templates/prosolwpclientjobapply.php:83
+#: public/templates/prosolwpclientjobdetails.php:28
+msgid "Back to Job Listing"
+msgstr ""
+
+#: public/templates/prosolwpclientjobapply.php:86
+#: public/templates/prosolwpclientjobdetails.php:112
+#: public/templates/prosolwpclientjobsearchresult.php:81
+msgid "Back to Job Search"
+msgstr ""
+
+#: public/templates/prosolwpclientjobapply.php:121
+msgid "Send"
+msgstr ""
+
+#: public/templates/prosolwpclientjobdetails.php:63
+msgid "Job Details"
+msgstr ""
+
+#: public/templates/prosolwpclientjobdetails.php:68
+#: public/templates/prosolwpclientjobsearchresult.php:47
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:42
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:219
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:208
+msgid "Job"
+msgstr ""
+
+#: public/templates/prosolwpclientjobdetails.php:72
+msgid "Reference Number"
+msgstr ""
+
+#: public/templates/prosolwpclientjobdetails.php:76
+msgid "Occupational Group"
+msgstr ""
+
+#: public/templates/prosolwpclientjobdetails.php:80
+msgid "Qualification"
+msgstr ""
+
+#: public/templates/prosolwpclientjobdetails.php:84
+msgid "Working Time"
+msgstr ""
+
+#: public/templates/prosolwpclientjobdetails.php:88
+#: public/templates/prosolwpclientjobsearchresult.php:48
+msgid "Location"
+msgstr ""
+
+#: public/templates/prosolwpclientjobdetails.php:92
+msgid "Job Start Date"
+msgstr ""
+
+#: public/templates/prosolwpclientjobdetails.php:115
+msgid "Apply"
+msgstr ""
+
+#: public/templates/prosolwpclientjobsearchform.php:36
+msgid "Job Search"
+msgstr ""
+
+#: public/templates/prosolwpclientjobsearchform.php:39
+msgid "Filter available Occupational groups"
+msgstr ""
+
+#: public/templates/prosolwpclientjobsearchform.php:49
+msgid "Profession-Group"
+msgstr ""
+
+#: public/templates/prosolwpclientjobsearchform.php:73
+msgid "Search"
+msgstr ""
+
+#: public/templates/prosolwpclientjobsearchresult.php:27
+msgid "Search Result"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:23
+msgid "Education 1"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:27
+msgid "Add Education"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:36
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:214
+msgid "Group"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:40
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:217
+msgid "Please Select Group"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:50
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:227
+msgid "Training / Practice"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:64
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:240
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:56
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:233
+msgid "Beginning"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:67
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:243
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:60
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:236
+msgid "Please Pick Beginning Year"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:81
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:256
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:74
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:250
+msgid "The End"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:84
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:259
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:77
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:253
+msgid "Please Pick The End Year"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:98
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:272
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:120
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:294
+msgid "Postcode/Town"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:104
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:276
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:126
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:300
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:68
+msgid "Postcode"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:109
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:281
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:131
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:305
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:73
+msgid "Town"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:115
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:287
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:137
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:311
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:79
+msgid "Country"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:118
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:290
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:140
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:314
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:82
+msgid "Please Select Country"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:130
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:302
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:152
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:326
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:94
+msgid "Federal State"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:145
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:316
+msgid "Level of Education"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:148
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:319
+msgid "None"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:159
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:330
+msgid "Field of Activity"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:178
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:345
+msgid "Business"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:196
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:359
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:91
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:267
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:55
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:59
+msgid "Description"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationeducationinfo.php:393
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:390
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:264
+#: public/templates/singlefieldset/prosolwpclient-job-application-personal-info_2.php:42
+msgid "required"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:28
+msgid "Experience 1"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:32
+msgid "Add Experience"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:45
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:222
+msgid "Please Select Occupation"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:101
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:276
+msgid "General Description"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:110
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:114
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:284
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:288
+msgid "Company / Institution"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:167
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:340
+msgid "Experience Position"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:182
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:354
+msgid "Contract"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:185
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:357
+msgid "Please Select Contract"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:196
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:368
+msgid "Employment"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:199
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexperienceinfo.php:371
+msgid "Please Select Employment"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:20
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:37
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:190
+msgid "Knowledge"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:22
+msgid "Add new Expertise"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:24
+msgid "Add"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:48
+msgid "Languages"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:49
+msgid "Beginner"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:50
+msgid "Advanced"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:51
+msgid "Basic"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:52
+msgid "Good"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:54
+msgid "Native"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:55
+msgid "Very Good"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:78
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:215
+msgid "Delete Expertise"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:93
+msgid "Beginner knowledge"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:104
+msgid "Basic knowledge"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:115
+msgid "Advanced knowledge"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:126
+msgid "Good knowledge"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:148
+msgid "Perfect knowledge or native language"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:159
+msgid "Very good knowledge"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:174
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:117
+msgid "Abort, stop"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:178
+msgid "Save and Close"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:189
+msgid "Skill group"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:191
+msgid "Classification"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationexpertiseinfo.php:204
+#: public/templates/singlefieldset/prosolwpclientjobapplicationothersinfo.php:48
+msgid "Required"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationothersinfo.php:13
+msgid "You became aware of us through"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationothersinfo.php:16
+msgid "Please Select aware source"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationothersinfo.php:27
+msgid "You are applying specifically for"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationothersinfo.php:32
+msgid "Applying for"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationothersinfo.php:38
+msgid "What else do you want to tell us?"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationothersinfo.php:42
+msgid "Message"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:18
+#: public/templates/singlefieldset/prosolwpclient-job-application-personal-info_2.php:18
+#: public/templates/singlefieldset/prosolwpclientjobapplicationsidedishesinfo.php:31
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:44
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:49
+msgid "Title"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:21
+#: public/templates/singlefieldset/prosolwpclient-job-application-personal-info_2.php:21
+msgid "Please Select Title"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:32
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:37
+msgid "Family Name"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:43
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:48
+msgid "First Given Name"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:54
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:57
+msgid "Road"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:63
+msgid "Postcode / Town"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:108
+msgid "Date of Birth"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:113
+msgid "Please Pick Date of Birth"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:122
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:125
+msgid "Phone"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:131
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:134
+msgid "Mobile"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:140
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:143
+msgid "E-mail"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:149
+msgid "Nationality"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:153
+msgid "Please Select Nationality"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:164
+msgid "Marital Status"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:168
+msgid "Please Select Marital Status"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:184
+msgid "Female"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:188
+msgid "Male"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:195
+msgid "Country of Birth"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:198
+msgid "Please Select Birth Country"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:231
+msgid "Available From"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:236
+msgid "Please Pick Date"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:245
+msgid "Do not forward documents to"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationpersonalinfo.php:256
+#: public/templates/singlefieldset/prosolwpclient-job-application-personal-info_2.php:34
+msgid "Details are correct. I would like to continue the application process!"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationsidedishesinfo.php:13
+msgid ""
+"Additional files that you want to submit to us (CV, certificates, "
+"application letter, etc.)"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationsidedishesinfo.php:22
+msgid "Add Attachment"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationsidedishesinfo.php:32
+msgid "Desc."
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationsidedishesinfo.php:34
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:27
+msgid "Type"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationsidedishesinfo.php:35
+msgid "Size"
+msgstr ""
+
+#: public/templates/singlefieldset/prosolwpclientjobapplicationsidedishesinfo.php:55
+msgid "Delete Attachment"
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationactivitymodal.php:15
+msgid "Select activity area"
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationactivitymodal.php:20
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationactivitymodal.php:24
+msgid "Filter available operation areas"
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationactivitymodal.php:28
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationbusinessmodal.php:28
+#: public/templates/singlefieldset/modals/prosolwpclient-job-application-job-modal.php:29
+msgid "Profession Group"
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationactivitymodal.php:38
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationbusinessmodal.php:38
+#: public/templates/singlefieldset/modals/prosolwpclient-job-application-job-modal.php:47
+msgid "Conclude"
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:15
+msgid "File Attachment"
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:33
+msgid "This is an application document"
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:38
+msgid "This is my photo"
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:70
+msgid "Attach File"
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:104
+msgid "Allowed file extensions: "
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:108
+msgid "Maximum file size: "
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:108
+msgid "2 MB"
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:108
+msgid "Maximum total file size: "
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:109
+msgid "10 MB"
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:115
+msgid "(*) =  Required!"
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationattachmentmodal.php:120
+msgid "Submit"
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationbusinessmodal.php:15
+msgid "Select industry"
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationbusinessmodal.php:20
+#: public/templates/singlefieldset/modals/prosolwpclientjobapplicationbusinessmodal.php:24
+msgid "Filter available NACE"
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclient-job-application-job-modal.php:15
+msgid "Select occupation"
+msgstr ""
+
+#: public/templates/singlefieldset/modals/prosolwpclient-job-application-job-modal.php:21
+#: public/templates/singlefieldset/modals/prosolwpclient-job-application-job-modal.php:25
+msgid "Filter available occupations"
+msgstr ""
+
+#. Name of the plugin
+msgid "ProSolution WP Client"
+msgstr ""
+
+#. Description of the plugin
+msgid "WordPress client for ProSolution"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.prosolution.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "ProSolution"
+msgstr ""

@@ -1,0 +1,75 @@
+/** WordPress 3.8 Fix **/
+.form-table th {
+	padding: 20px 10px;
+}
+
+#wpbody-content .metabox-holder {
+	padding-top: 5px;
+}
+
+.chosen-container-single, .chosen-container-multi {
+	min-width: 244px !important;
+}
+
+#poststuff h2.nav-tab-wrapper {
+	margin-bottom: 0px !important;
+	padding-bottom: 0px;;
+}
+
+.nav-tab-active, .nav-tab-active:hover {
+	background: #fff !important;
+}
+
+.nav-tab-active, .nav-tab-active:focus, .nav-tab-active:focus:active, .nav-tab-active:hover, .postbox {
+	border-top: 2px solid #0085ba;
+}
+
+.error {
+	color: #ff0000;
+}
+
+input[type="text"].error, input[type="textarea"].error,
+input[type="url"].error, input[type="password"].error {
+	border: 1px solid #ff0000 !important;
+	color: #ff0000 !important;
+}
+
+ select.form-control + .chosen-container.chosen-container-single .chosen-single.input-validation-error{
+	color: #ff0000 !important;
+}
+
+ a.chosen-single.input-validation-error{
+	 color: #ff0000 !important;
+ }
+	
+div.apivalid{
+	display: inline-block;
+	vertical-align:5px;
+ }
+
+div.process-busy{
+	background: url('../img/ajax-loader.gif?v=2') no-repeat 10px center;
+	width: 72px;
+	height: 15px;
+	vertical-align:-2px;
+}
+
+div.apivalid .valid{
+	background-color: #1fbe0af1;
+	border-color: #1fbe0af1 #1fbe0af1 #1fbe0af1;
+	box-shadow: 0 1px 0 #1fbe0af1;
+	text-shadow: 0 -1px 1px #1fbe0af1,1px 0 1px #1fbe0af1,0 1px 1px #1fbe0af1,-1px 0 1px #1fbe0af1;
+}
+
+div.apivalid .notvalid{
+	background-color: #e74f4f;
+	border-color: #e74f4f #e74f4f #e74f4f;
+	box-shadow: 0 1px 0 #e74f4f;
+	text-shadow: 0 -1px 1px #e74f4f,1px 0 1px #e74f4f,0 1px 1px #e74f4f,-1px 0 1px #e74f4f;
+}
+
+tr.dessearchfrontend th label, tr.desresultfrontend th label, tr.desdetailsfrontend th label{
+	padding: 4px;
+	font-size: larger;
+	background-color: #f1f1f1;
+}

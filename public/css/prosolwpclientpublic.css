@@ -1,0 +1,376 @@
+.prosolwpclientcustombootstrap .wrap {
+    max-width: 980px;
+    margin: 10px auto 0;
+}
+
+.prosolwpclientcustombootstrap #steps {
+    margin: 10px 0 0 0
+}
+
+.prosolwpclientcustombootstrap .steps {
+    list-style: none;
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+    padding: 0
+}
+
+.prosolwpclientcustombootstrap .steps li {
+    color: #b0b1b3;
+    font-size: 24px;
+    float: left;
+    padding: 10px;
+    transition: all .3s;
+    -moz-transition: all .3s;
+    -webkit-transition: all .3s;
+    -o-transition: all .3s;
+}
+
+.prosolwpclientcustombootstrap .steps li span {
+    font-size: 11px;
+    display: block;
+}
+
+.prosolwpclientcustombootstrap .steps li.current {
+    color: #000;
+}
+
+.prosolwpclientcustombootstrap .commands {
+    overflow: hidden;
+    margin-top: 30px;
+}
+
+.prosolwpclientcustombootstrap .commands .wizard-prev-btn {
+    float: left;
+}
+
+.prosolwpclientcustombootstrap .commands .wizard-next-btn,
+.prosolwpclientcustombootstrap .submit {
+    float: right;
+}
+
+.prosolwpclientcustombootstrap .job-remove,
+.activity-remove,
+.business-remove {
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.prosolwpclientcustombootstrap .breadcrumb {
+    height: 37px
+}
+
+.prosolwpclientcustombootstrap .breadcrumb li {
+    background: #eee;
+    font-size: 14px
+}
+
+.prosolwpclientcustombootstrap .breadcrumb li.current:after {
+    border-top: 18px solid transparent;
+    border-bottom: 18px solid transparent;
+    border-left: 6px solid #666;
+    content: ' ';
+    position: absolute;
+    top: 0;
+    right: -6px
+}
+
+.prosolwpclientcustombootstrap .breadcrumb li.current {
+    background: #666;
+    color: #eee;
+    position: relative
+}
+
+.prosolwpclientcustombootstrap .breadcrumb li:last-child:after {
+    border: none
+}
+
+.prosolwpclientcustombootstrap p.error {
+    color: #b33;
+}
+
+.prosolwpclientcustombootstrap .modal-dialog {
+    overflow-y: initial !important
+}
+
+.prosolwpclientcustombootstrap .modal-body {
+    height: 100%;
+    overflow-y: auto;
+}
+
+.prosolwpclientcustombootstrap .modal-title {
+    display: inline;
+}
+
+
+/*bootstrap edu add more css*/
+
+.prosolwpclientcustombootstrap .incremental-nav-tabs>li {
+    position: relative;
+}
+
+.prosolwpclientcustombootstrap .incremental-nav-tabs>li>a {
+    display: inline-block;
+}
+
+.prosolwpclientcustombootstrap .incremental-nav-tabs>li>span {
+    display: none;
+    cursor: pointer;
+    position: absolute;
+    right: 6px;
+    top: 8px;
+    color: red;
+}
+
+.prosolwpclientcustombootstrap .incremental-nav-tabs>li:hover>span {
+    display: inline-block;
+}
+
+.prosolwpclientcustombootstrap select.form-control+.chosen-container.chosen-container-single .chosen-single {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #555;
+    vertical-align: middle;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    background-image: none;
+}
+
+.prosolwpclientcustombootstrap select.form-control+.chosen-container.chosen-container-single .chosen-single.input-validation-error {
+    /*color: #b33;*/
+}
+
+.prosolwpclientcustombootstrap select.form-control+.chosen-container.chosen-container-single .chosen-single div {
+    top: 4px;
+    color: #000;
+}
+
+.prosolwpclientcustombootstrap select.form-control+.chosen-container .chosen-drop {
+    background-color: #FFF;
+    border: 1px solid #CCC;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+    background-clip: padding-box;
+    margin: 2px 0 0;
+}
+
+.prosolwpclientcustombootstrap select.form-control+.chosen-container.chosen-container-single .chosen-search-input {
+    display: none;
+}
+
+.prosolwpclientcustombootstrap select.form-control+.chosen-container .chosen-search input[type=text] {
+    display: block;
+    width: 100%;
+    height: 34px !important;
+    padding: 6px 12px;
+    font-size: 14px !important;
+    line-height: 1.428571429 !important;
+    color: #555;
+    vertical-align: middle;
+    background-color: #FFF;
+    border: 1px solid #CCC;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+    background-image: none;
+}
+
+.prosolwpclientcustombootstrap select.form-control+.chosen-container .chosen-results {
+    margin: 2px 0 0;
+    padding: 5px 0;
+    font-size: 14px;
+    list-style: none;
+    background-color: #fff;
+    margin-bottom: 5px;
+}
+
+.prosolwpclientcustombootstrap select.form-control+.chosen-container .chosen-results li,
+.prosolwpclientcustombootstrap select.form-control+.chosen-container .chosen-results li.active-result {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: normal;
+    line-height: 1.428571429;
+    color: #333;
+    white-space: nowrap;
+    background-image: none;
+}
+
+.prosolwpclientcustombootstrap select.form-control+.chosen-container .chosen-results li:hover,
+.prosolwpclientcustombootstrap select.form-control+.chosen-container .chosen-results li.active-result:hover,
+.prosolwpclientcustombootstrap select.form-control+.chosen-container .chosen-results li.highlighted {
+    color: #FFF;
+    text-decoration: none;
+    background-color: #428BCA;
+    background-image: none;
+}
+
+.prosolwpclientcustombootstrap select.form-control+.chosen-container-multi .chosen-choices {
+    display: block;
+    width: 100%;
+    min-height: 34px !important;
+    padding: 6px !important;
+    font-size: 14px !important;
+    line-height: 1.428571429 !important;
+    color: #555;
+    vertical-align: middle;
+    background-color: #FFF;
+    border: 1px solid #CCC;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+    background-image: none;
+}
+
+.prosolwpclientcustombootstrap select.form-control+.chosen-container-multi .chosen-choices li.search-field input[type="text"] {
+    height: auto;
+    padding: 5px 0 !important;
+}
+
+.prosolwpclientcustombootstrap select.form-control+.chosen-container-multi .chosen-choices li.search-choice {
+    background-image: none;
+    padding: 3px 24px 3px 5px;
+    margin: 0 6px 0 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.428571429;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: #333;
+    background-color: #FFF;
+    border-color: #CCC;
+}
+
+.prosolwpclientcustombootstrap select.form-control+.chosen-container-multi .chosen-choices li.search-choice .search-choice-close {
+    top: 8px;
+    right: 6px;
+}
+
+.prosolwpclientcustombootstrap select.form-control+.chosen-container-multi.chosen-container-active .chosen-choices,
+.prosolwpclientcustombootstrap select.form-control+.chosen-container.chosen-container-single.chosen-container-active .chosen-single,
+.prosolwpclientcustombootstrap select.form-control+.chosen-container .chosen-search input[type=text]:focus {
+    border-color: #66AFE9;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+}
+
+.prosolwpclientcustombootstrap select.form-control+.chosen-container-multi .chosen-results li.result-selected {
+    display: list-item;
+    color: #ccc;
+    cursor: default;
+    background-color: white;
+}
+
+.prosolwpclientcustombootstrap #prosolfull_app_form .prosolapp_submit_msg {}
+
+.prosolwpclientcustombootstrap #prosolfull_app_form .prosolapp_submit_msg .alert .ul {
+    margin-left: 15px !important;
+}
+
+.prosolwpclientcustombootstrap .ajax-common-busy {
+    background: url('../img/ajax-loader.gif?v=2') no-repeat 10px center;
+}
+
+.prosolwpclientcustombootstrap .modal-body {
+    overflow-y: auto;
+}
+
+
+/*.prosolwpclientcustombootstrap .table-fixheader {
+    position: relative;
+    padding-top: 60px;
+}
+.prosolwpclientcustombootstrap .table-fixheader>div {
+    height:350px;
+    overflow-y:auto;
+}
+.prosolwpclientcustombootstrap .table-fixheader thead{
+    position: absolute;
+    width: 100%;
+    top: 0;
+}
+.prosolwpclientcustombootstrap .table-fixheader thead tr{
+    position: absolute;
+    width: 100%;
+}
+.prosolwpclientcustombootstrap .table-fixheader thead tr th{
+    display:inline-block;
+	min-height: 100px;
+}*/
+
+.prosolwpclientcustombootstrap a,
+.prosolwpclientcustombootstrap a:hover {
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+}
+
+.prosolwpclientcustombootstrap a.trash-expertise-entry {
+    float: left;
+    display: inline-block;
+    margin-right: 5px;
+    width: 16px;
+    height: 16px;
+    text-decoration: none !important;
+    border: 0 none !important;
+}
+
+.prosolwpclientcustombootstrap .alert>p,
+.prosolwpclientcustombootstrap .alert>ul {
+    margin-left: 20px;
+}
+
+.prosolwpclientcustombootstrap a.dashicons,
+body .prosolwpclientcustombootstrap a.dashicons {
+    text-decoration: none !important;
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+}
+
+.prosolwpclientcustombootstrap a.dashicons:hover,
+body .prosolwpclientcustombootstrap a.dashicons:hover {
+    text-decoration: none !important;
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+}
+
+.prosolwpclientcustombootstrap .nav-tabs>li {
+    margin-bottom: -2px;
+}
+
+.prosolwpclientcustombootstrap .nav-tabs>li a {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
+.prosolwpclientcustombootstrap .nav-tabs>li.error-tab a {
+    color: #cc0000 !important;
+    border-color: #cc0000;
+}
+
+.prosolwpclientcustombootstrap .nav-tabs>li.active.error-tab a {
+    border-bottom: transparent;
+}
+
+.prosolwpclientcustombootstrap .hasDatepicker.error {}
